@@ -26,4 +26,5 @@ logging:
 		org.springframework.cloud.config: DEBUG
 		org.springframework.security: DEBUG
 
-		org.sprintframework.web.reactive.function.client.ExchangeFunctions: DEBUG
+		org.springframework.web.reactive.function.client.ExchangeFunctions: DEBUG
+

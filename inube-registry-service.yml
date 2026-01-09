@@ -2,7 +2,7 @@ server:
 	port: 8106
 	
 spring:
-	appliction:
+	application:
 		name: inube-registry-service
 
 eureka:
@@ -25,4 +25,5 @@ logging:
 	level:
 		org.springframework.cloud.config: DEBUG
 		org.springframework.security: DEBUG
+
 		org.sprintframework.web.reactive.function.client.ExchangeFunctions: DEBUG
